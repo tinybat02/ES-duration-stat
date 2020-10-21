@@ -7,7 +7,7 @@ interface Props extends PanelProps<PanelOptions> {}
 interface State {
   duration: number;
 }
-// #56a64b
+
 export class MainPanel extends PureComponent<Props, State> {
   state: State = {
     duration: 0,
@@ -53,7 +53,7 @@ export class MainPanel extends PureComponent<Props, State> {
             width: '70%',
             textAlign: 'center',
             color: '#56a64b',
-            translate: 20,
+            // translate: -50,
           }}
         >
           <span style={{ fontSize: width / 4 }}>{duration}</span>

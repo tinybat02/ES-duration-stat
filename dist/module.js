@@ -396,7 +396,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _util_process__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util/process */ "./util/process.ts");
 
 
- // #56a64b
+
 
 var MainPanel =
 /** @class */
@@ -459,8 +459,7 @@ function (_super) {
         height: '70%',
         width: '70%',
         textAlign: 'center',
-        color: '#56a64b',
-        translate: 20
+        color: '#56a64b'
       }
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       style: {
