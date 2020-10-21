@@ -47,19 +47,22 @@ export class MainPanel extends PureComponent<Props, State> {
           alignItems: 'center',
         }}
       >
-        <div
-          style={{
-            height: '70%',
-            width: '70%',
-            textAlign: 'center',
-            color: '#56a64b',
-            // translate: -50,
-          }}
-        >
+        <div style={{ color: '#56a64b' }}>
           <span style={{ fontSize: width / 4 }}>{duration}</span>
           <span style={{ fontSize: width / 8 }}>min</span>
         </div>
       </div>
     );
   }
+}
+
+{
+  /* <div
+style={{
+  height: '70%',
+  width: '70%',
+  textAlign: 'center',
+  color: '#56a64b',
+}}
+> */
 }

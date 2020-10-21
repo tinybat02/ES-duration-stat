@@ -456,9 +456,6 @@ function (_super) {
       }
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       style: {
-        height: '70%',
-        width: '70%',
-        textAlign: 'center',
         color: '#56a64b'
       }
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
@@ -476,6 +473,16 @@ function (_super) {
 }(react__WEBPACK_IMPORTED_MODULE_1__["PureComponent"]);
 
 
+{
+  /* <div
+  style={{
+  height: '70%',
+  width: '70%',
+  textAlign: 'center',
+  color: '#56a64b',
+  }}
+  > */
+}
 
 /***/ }),
 
