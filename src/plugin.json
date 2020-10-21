@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ES duration stat",
+  "id": "id-es-duration-stat",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES duration stat",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
