@@ -457,7 +457,7 @@ function (_super) {
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       style: {
         color: '#56a64b',
-        fontWeight: 300
+        fontWeight: 400
       }
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       style: {

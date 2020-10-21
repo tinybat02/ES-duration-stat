@@ -47,7 +47,7 @@ export class MainPanel extends PureComponent<Props, State> {
           alignItems: 'center',
         }}
       >
-        <div style={{ color: '#56a64b', fontWeight: 300 }}>
+        <div style={{ color: '#56a64b', fontWeight: 400 }}>
           <span style={{ fontSize: width / 4 }}>{duration}</span>
           <span style={{ fontSize: width / 8 }}>min</span>
         </div>
